@@ -1,0 +1,37 @@
+#%1#2#2#It's O-week. You walk toward university for orientation and the sun is in your eyes.#1#2#/%
+
+#%2#3#2#The opening speeches are long and boring but you get seated next to some girl/guy (This is a game, whatever you're into...)#3#4#/%
+
+#%3#4#2#There's a tour of  either the gym or the library.#5#6#/%
+
+#%4#5#2#You've met a bunch of people today. Half are going to the pub for a quiz. Half are going to a flat for a quiet drink and a game of poker. Where do you want to go?#7#8#/%
+
+#%5#6#1#Well done, you got through oreintation and you even made some friends! Sanity +10 Sleep -5 #9#/%
+
+#%6#7#3#You're in class. The lecturer is droning on into his beard. Do you want to...#10#11#12#/%
+
+#%7#8#4#Hot damn! Flat party time! You all get a little buzzed. The music's up loud. You decide to... #13#14#15#16#/%
+
+#%8#9#2#Your head pounds, your mattress spins, You cluch to it for dear life. It appears you have a hangover#17#18#/%
+
+#%9#10#2#You're a few weeks in and your stomach sinks as you realise that your bank account is almost empty. You: #19#20#/%
+
+#%10#11#3#You're hanging out with a mate and they hint they might want to try meth.  You: #21#22#23#/%
+
+#%11#12#2#A wild ex appears! #24#25#/%
+
+#%12#13#2#You're elected last minute editor of the group project. None of your group knows how to reference or, apparently, spell.  #26#27#/%
+
+#%13#14#3#You have a free weekend. An acquaintance is having a party  #28#29#30#/%
+
+#%14#15#3#This is it. Finals.  #31#32#33#/%
+
+#%15#99#1#You're done.#34#/%
+
+#%99#99#0#Fin#/%
+
+
+
+
+
+encounterID, nextEncounter, optionCount, encounterText, Following Options

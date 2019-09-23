@@ -1,0 +1,50 @@
+#*1#Look down. Damn that shit is bright! #0#0#0#1#0#0#0#Oooo! You see a shiny pen in between the cobbles. You found a lucky pen! Luck +1#/*
+#*2#Put your shades on.#1#0#0#0#0#0#0#Your future is looking bright and you're looking fly. Charisma + 1#/*
+
+#*3#Flex on them #0#1#0#0#0#0#0#Well done. You showed your dominance. We're all very impressed. Strength + 1#/*
+#*4#Strike up a conversation #0#0#0#1#0#0#0#You get a reply, then a smile, then a laugh! Hey, you're pretty good at this! Charisma+ 1#/*
+
+#*5#Library #0#0#0#0#0#0#0#Row upon row of books, a compter suite... Damn, are they dual monitors ? Intelligence +1#/*
+#*6#Gym #0#0#0#0#0#0#0#It's a gym. I'm certain you can spend plenty of time here grunting and sweating. Strength +1#/*
+
+#*7#Quizzle my Nizzle! #0#0#1#0#0#0#0#Your team name was awful but you didn't come last and isn't that what matters? Intelligence + 1#/*
+#*8#Poker. Gonna win some money. Just like in the movies. #0#0#0#1#0#0#0#You rake it in! Luck +1#/*
+
+#*9#Excellent.#0#0#0#0#10#-5#0# #/*
+
+#*10#Goof off. #0#0#0#0#5#0#-10#You chat with mates, mostly about your plans for tonight. Sanity +5 Grades -10#/*
+#*11#I bareley slept last night. if I just close my eyes... only.. for... a... mo... zzz #0#0#0#0#0#10#-10#Sleep it off, buddy. you've a big night ahead. Sleep +10, Grades -10#/*
+#*12#Square your shoulders and summon your inner nerd. #0#0#0#0#0#-5#10#You did it. You learned a thing! sanity -5, Grades +10#/*
+
+#*13#Play a drinking game.#0#0#0#0#5#0#-5#You and a mate team up to take on the world a beer pong. You're the A-team... Well maybe the C+ team. You got: A Hangover! Sanity +5 Grades -5 #/*
+#*14#Chat in the lounge #0#0#0#0#5#0#-10#You chat with mates, mostly about your plans for tonight. Sanity +5 #/*
+#*15#You feel your foot taping and your ass shaking... It's time to dance! #0#0#0#0#10#-2#0#You start and your friends follow. You all shake the stress away. Sanity +10 Sleep -2/*
+#*16#Lean against a wall and try to look cool #0#0#0#0#-10#0#-5#Sorry, buddy. This wasn't a good strategy. You eventually get tired of trying to look like a cool kid and go home.  Sanity -10 Sleep -5/*
+
+#*17#Gods give me water... #0#0#0#0#0#0#0#You drink at the fountain of bliss, pop some neurofen (You heard panadol is bad for your liver), and you slowly feel a litle better. Blessedly, you suffer no lasting effects.#/*
+#*18#Just let me sleep. #0#0#0#0#0#-15#0#You toss and turn, moaning and aching. You make it out of bed just in time for dinner. Sleep -15#/*
+
+#*19#Get a job. Ew. #0#0#0#0#0#-5#-10#Wage slaving on top of uni work. That's tough man. Sleep - 5, Grades -10#/*
+#*20#Subsist on 2 minute noodles and potatoes. Also ew. #0#0#0#0#-30#0#0#Christ... More carbs... You start going a little crazy due to malnutrition. #/*
+
+#*21#Mmmmmm... drugs.... #0#0#0#0#-50#5#0#You get addicted. You have ants in your skin. This was a terrible decision. Who knew that this could possibly have blown up in your face? Sanity - 50, Sleep + 5#/*
+#*22#I... uh... like my life *not* ruined. #0#0#0#0#0#0#0#You wonder what might have been but it's almost certainly for the best.#/*
+#*23#You counsel your friend that they may want to stick to the soft stuff. #0#0#0#0#0#10#0#They call you a pussy but they also dont persue it. You sleep well. Sleep + 10#/*
+
+#*24#Sleep with them! #0#0#0#0#-15#-10#-5#You got: AIDES! Just kidding it was the Clap and a whole bunch of drama. Sanity- 15, Sleep - 10, Grades - 5#/*
+#*25#Blow them off #0#0#0#0#+10#-5#0#They freak out at you but their cute friend messages you on Facebook to apologise. The apology ends in a date so.... Karma? Sanity +10 Sleep -5 #/*
+
+#*26#Don't help. Hand it in as is.  #0#0#0#-10#0#0#-40#WE ALL BURN TOGETHER!!! Grades -40#/*
+#*27#Fuck. Fine. An all-nighter it is. #0#0#0#0#-10#-35#20#You slave all night while considering the brutal murder of your fellow groupmates. Sanity - 10, Sleep - 35, Grades + 20#/*
+
+#*28#Go to one thing #0#0#0#0#10#10#-10#Your grades suffer but you got time to chill with mates so... Sanity + 10 Sleep + 10, Grades - 10#/*
+#*29#Do your assignment #0#0#0#0#-15#0#10#You do the assignment. Depression circles. Sanity - 15, Grades +10 #/*
+#*30#ALL THE THINGS #0#0#0#0#-30#-10#10#You did it. But at what cost??? Sanity-30, Sleep-10, Grades +10#/*
+
+#*31#Don't study #0#0#0#0#0#10#-25#Wait. Shit. Sleep + 10, Grades-25#/*
+#*32#Study a little #0#0#0#0#0#0#10#Did okay. I can respect that. Grades+10#/*
+#*33#Study like a FUCKING MADMAN #0#0#0#0#-20#-20#45#Nothing but study. Sleep is for the WEAK! You come out with crazy eyes, smelling like a locker room. But you goddamn passed. Sanity - 20, Sleep -20, Grades+45#/*
+
+#*34#Thank god.#0#0#0#0#0#0#0# #/*
+
+"*" + id, Initial Text, cha, str, intelligence, lck, sanity, sleep, grades, outcome
